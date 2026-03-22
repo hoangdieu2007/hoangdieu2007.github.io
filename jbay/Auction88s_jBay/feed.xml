@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:AA88228A-F325-4420-AB60-3A8A118DCD5B</id>
+ <title>Page list Atom feed</title>
+ <updated>2026-03-23T01:17:46+07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:B8606AD9-47CD-4640-837B-7428939BEECA</id>
+  <title>Auction88</title>
+  <title xmlns="urn:iweb:">Auction88</title>
+  <in-navbar xmlns="urn:iweb:">B8606AD9-47CD-4640-837B-7428939BEECA</in-navbar>
+  <link rel="alternate" href="Auction88.html"/>
+  <updated>2026-03-23T01:17:46.001+07:00</updated>
+  <content>Auction88</content>
+ </entry>
+</feed>
